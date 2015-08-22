@@ -354,7 +354,7 @@ module.exports = function (grunt) {
     },
     pages: {
       options: {
-        remote: 'git@github.com:example_user/example_webapp.git',
+        remote: 'git@github.com:jaythaceo/Candidates_2016.git',
         branch: 'gh-pages'
       }
     },
